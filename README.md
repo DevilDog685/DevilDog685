@@ -24,7 +24,7 @@ Hi, I'm Richard.V! I'm a tech enthusiast and love exploring the latest advanceme
 [![](https://visitcount.itsvg.in/api?id=DevilDog685&icon=7&color=8)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/richardvaaZ target="_blank") 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/richardvaaZ) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
