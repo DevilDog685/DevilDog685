@@ -21,7 +21,7 @@ Hi, I'm Richard.V! I'm a tech enthusiast and love exploring the latest advanceme
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DevilDog685&icon=7&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DevilDog685&icon=7&color=8)]
 
 
 
